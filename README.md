@@ -1,4 +1,4 @@
-# link do data set
+# link do dataset
 https://www.kaggle.com/datasets/assemelqirsh/chest-x-ray-dataset
 ---
 
